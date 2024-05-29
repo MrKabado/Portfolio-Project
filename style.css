@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*HEADER*/
+
+header {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}
+
+table tr td {
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
